@@ -1,0 +1,30 @@
+{
+  "name": "block3web",
+  "version": "1.0.0",
+  "description": "Blockchain with Web3JS",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mblogger/block3web.git"
+  },
+  "keywords": [
+    "blockchain",
+    "web3js",
+    "solidity"
+  ],
+  "author": "MS <mohitblogger@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mblogger/block3web/issues"
+  },
+  "homepage": "https://github.com/mblogger/block3web#readme",
+  "dependencies": {
+    "web3": "^1.3.0"
+  }
+}
